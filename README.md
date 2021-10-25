@@ -59,3 +59,6 @@
 </p>
 
 <a href="https://github.com/subastianSk/github-readme-activity-graph"><img alt="Subastian" src="https://activity-graph.herokuapp.com/graph?username=subastianSk&theme=dracula)](https://github.com/subastianSk/github-readme-activity-graph&theme=redical" /></a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
