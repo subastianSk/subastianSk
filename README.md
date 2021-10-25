@@ -58,4 +58,4 @@
 </a>
 </p>
 
-<a href="https://github.com/SubastianSk/github-readme-activity-graph"><img alt="Subastian" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=redical" /></a>
+<a href="https://github.com/SubastianSk/github-readme-activity-graph"><img alt="Subastian" src="https://activity-graph.herokuapp.com/graph?username=SubastianSk&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=redical" /></a>
