@@ -49,6 +49,7 @@
     </a>
 </p>
 
+<br/>
 ## 📊 My Github Stats
 <p align="left">
 <a href="https://github.com/subastianSk">
@@ -56,3 +57,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subastianSk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<a href="https://github.com/SubastianSk/github-readme-activity-graph"><img alt="Subastian" src="https://activity-graph.herokuapp.com/graph?username=SubastianSk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
