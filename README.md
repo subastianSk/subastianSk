@@ -44,7 +44,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/subastianSk">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dwi Yanto Subastian" src="https://github-readme-streak-stats.herokuapp.com/?user=subastianSk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -52,7 +52,7 @@
 ## 📊 My Github Stats
 <p align="left">
 <a href="https://github.com/subastianSk">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subastianSk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subastianSk&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subastianSk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subastianSk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
