@@ -54,11 +54,7 @@
 <p align="left">
 <a href="https://github.com/subastianSk">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subastianSk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subastianSk&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subastianSk&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-<a href="https://github.com/subastianSk/github-readme-activity-graph"><img alt="Subastian" src="https://activity-graph.herokuapp.com/graph?username=subastianSk&theme=dracula)](https://github.com/subastianSk/github-readme-activity-graph&theme=redical" /></a>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
